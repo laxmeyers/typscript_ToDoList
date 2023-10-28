@@ -1,24 +1,34 @@
-# New Project
+# Overview
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wanted to learn more web application languages. To expand my knowledge in making applications and get more experience to know what would be best for certain applications if there is a difference.
+{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
+this software application allows you to make a to-do list and check off things you have accomplished. It then stores all this info in local storage so you don't lose your progress.
+{Describe your purpose for writing this software.}
+I wrote this to better help me understand and to plan out tasks.
+{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-## Available Scripts
+[TypeScript Project](https://somup.com/c06u0LBRaj)
 
-### npm start
+# Development Environment
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+{Describe the tools that you used to develop the software}
+I used snowpack to help with some configuring between javascript and typescript.
+{Describe the programming language that you used and any libraries.}
+typescript
+snowpack
+html
+css
+# Useful Websites
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+{Make a list of websites that you found helpful in this project}
 
-### npm run build
+- [TypeScript](https://www.typescriptlang.org/)
+- [Setup](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+# Future Work
 
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
+{Make a list of things that you need to fix, improve, and add in the future.}
 
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+- Add delete and edit buttons
+- Make More better visual effects
